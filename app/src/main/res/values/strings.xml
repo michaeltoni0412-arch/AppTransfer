@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">AppTransfer</string>
+    <string name="search_hint">Search installed apps</string>
+    <string name="export">Download APK</string>
+
+</resources>
